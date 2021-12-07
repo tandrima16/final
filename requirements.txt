@@ -6,7 +6,7 @@ scipy==1.5.2
 streamlit==0.68.0
 opencv-python==3.2.0.6
 Pillow==7.2.0
-tensorboard==2.3.0
+tensorboard==1.11.0
 tensorboard-plugin-wit==1.7.0
 tensorflow==1.11.0
 tensorflow-estimator==2.3.0
